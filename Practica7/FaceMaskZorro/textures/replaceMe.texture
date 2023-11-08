@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "replaceMe",
+  "identifier": "texture:5153-d52a168c-892a-4f5b-ba8d-0418f7a94369",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "97e380903dc6e98428361deadb95c1c4",
+  "assetLocator": "textures/facePlaceholder(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 540,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 680,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "97e380903dc6e98428361deadb95c1c4",
+      "colorCount": 24442,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.887738002371755,
+      "pixelsHigh": 540,
+      "pixelsWide": 680
+    }
+  ]
+}

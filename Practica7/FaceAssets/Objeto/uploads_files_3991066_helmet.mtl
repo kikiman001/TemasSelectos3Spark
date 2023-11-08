@@ -1,0 +1,45 @@
+# Blender MTL File: 'helmet.blend'
+# Material Count: 4
+
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.029100 0.029100 0.029100
+Ks 0.074803 0.074803 0.074803
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 1000.000000
+Ka 0.559055 0.559055 0.559055
+Kd 0.000000 0.000000 0.000000
+Ks 0.389764 0.389764 0.389764
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Old_White_Metal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\User\\blenderkit_data\\materials\\old_white_metal_97da47e0-10b9-4b10-85fe-e2390a3e9e9d\\textures_1k\\WhiteMetal_normal.jpg
+map_Kd C:\\Users\\User\\blenderkit_data\\materials\\old_white_metal_97da47e0-10b9-4b10-85fe-e2390a3e9e9d\\textures_1k\\WhiteMetal_diffuse.jpg
+map_Ns C:\\Users\\User\\blenderkit_data\\materials\\old_white_metal_97da47e0-10b9-4b10-85fe-e2390a3e9e9d\\textures_1k\\WhiteMetal_roughness.jpg

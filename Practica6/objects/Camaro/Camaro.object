@@ -1,0 +1,86 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Camaro",
+  "identifier": "master3_d_object_model:542352-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d",
+  "sourceIdentifier": "asset_collection_model:542356-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.02499999850988388,
+  "globalScaleFactor": 1,
+  "height": 0.007173459976911545,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.010499540716409683,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Object_camero_map.jpg",
+      "identifier": "mesh:542340-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "Object_camero_map.jpg",
+      "numberOfFaces": 690,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:542346-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:542342-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:542349-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:542334-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d",
+              "surfaceGroupIdentifier": "542350-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:542344-0b8bbeef-6054-4e68-bd1a-d93af41e3c0d"
+        }
+      ]
+    }
+  ]
+}
